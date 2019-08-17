@@ -1,3 +1,5 @@
+FrontEnd para a aplicação GoBarber, desenvolvido em ReactJS através do bootcamp junto à RocketSeat.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
